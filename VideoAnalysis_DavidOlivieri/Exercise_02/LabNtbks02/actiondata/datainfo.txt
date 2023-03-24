@@ -1,0 +1,13 @@
+
+	ACCIONES:
+	--------
+
+	A1	- 	Videos s1 en la secuencia antigua (andar normal)
+	A2	- 	Videos s2 en la secuencia antigua (andar exagerado)
+	A3	- 	Videos s4 en la secuencia antigua (footing)
+	A4	- 	Videos s6 en la secuencia antigua (agacharse)
+	A5	- 	Videos s8 en la secuencia antigua (acostarse hacia adelante)
+	A6	- 	Videos s9 en la secuencia antigua (caerse)
+	A7	- 	Videos s10 en la secuencia antigua (sentarse en una silla)
+
+
